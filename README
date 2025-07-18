@@ -1,0 +1,35 @@
+# 🎵 Artist Ranking Score System
+
+A data-driven method to evaluate and rank musical artists based on their streaming performance and audience engagement.
+
+## 📁 Folder Structure
+
+- `Dataset.csv` — Raw input data
+- `scripts/` — Analysis scripts (SQL/Python – coming soon)
+- `charts/` — Visual outputs and charts (to be added)
+- `README.md` — Project documentation
+
+## 🚀 How to Use
+
+1. Clone this repository
+2. Load `Dataset.csv` into your preferred analysis tool (e.g., Python, Excel, SQL)
+3. Run the scripts (to be added in upcoming updates)
+
+> *Note: This is an early-stage project. Iterative improvements in progress.*
+
+## 🛠️ Tech Stack
+
+- SQL (PostgreSQL syntax)
+- Excel (initial data exploration)
+- Python (planned for modeling stage)
+
+## 🎯 Analysis Goals
+
+- Identify top-performing artists based on streaming metrics  
+- Design a scoring model combining engagement and popularity  
+- Explore user behavior patterns
+
+## 👩‍💻 About the Author
+
+Hi, I’m Faye Cai, a graduate student at NYU passionate about data-driven storytelling, product insights, and analytical problem-solving.  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/fayecai)
